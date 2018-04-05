@@ -1,4 +1,4 @@
-shakespeare-text-finder
+# shakespeare-text-finder
 AUTHOR: Joven Pableo (jpableo688@gmail.com)
 
 shakespeare-text-finder (or Bard for short) is a client program that utilizes the built in hashtable data structure in the java.util package. This program stores all the words in every found work from Shakespeare and puts it into a hashtable. In order to run the Bard program, a text file containing all of Shakespeare’s work must be in the same folder as the program.
